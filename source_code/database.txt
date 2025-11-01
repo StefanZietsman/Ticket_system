@@ -1,0 +1,1 @@
+﻿1,2025-01-01,John,John@gmail.com,Faulty,Decoder faulty
