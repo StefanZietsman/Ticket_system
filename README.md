@@ -27,5 +27,6 @@ Open main.py and run code and you will be greeted by the main menu. Choose from 
 
 A section for credits
 
-Thank you to the creators of Regular Expressions (RE) module which helps in validation email addresses.
+Thank you to the creators of Regular Expressions (RE) module which helps in validation of email addresses.
+
 
